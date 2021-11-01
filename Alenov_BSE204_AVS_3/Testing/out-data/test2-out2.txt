@@ -1,0 +1,26 @@
+Sorted container
+Container contains 6 elements
+0)
+  Quotient = 87.63636363636364 
+  Text: Arduino IDE
+  Encryption by replacing characters with numbers: 65 114 100 117 105 110 111 / 73 68 69 
+1)
+  Quotient = 94.61111111111111 
+  Text: Visual Studio Code
+  Encryption by cyclically shifting the code of each character by 3: (n = 3) Ylvxdo Vwxglr Frgh
+2)
+  Quotient = 97.28571428571429 
+  Text: Docker Desktop
+  Encryption by substitution of characters: Rgeatk Rtlazgh
+3)
+  Quotient = 97.5 
+  Text: DataGrip
+  Encryption by substitution of characters: RqzqUkoh
+4)
+  Quotient = 98.85714285714286 
+  Text: PyCharm
+  Encryption by cyclically shifting the code of each character by 3: (n = 3) S|Fkdup
+5)
+  Quotient = 107.3 
+  Text: Solidworks
+  Encryption by cyclically shifting the code of each character by 1: (n = 1) Tpmjexpslt

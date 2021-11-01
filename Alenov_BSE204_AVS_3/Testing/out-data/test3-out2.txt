@@ -1,0 +1,30 @@
+Sorted container
+Container contains 7 elements
+0)
+  Quotient = 77.55555555555556 
+  Text: Far Cry 3
+  Encryption by substitution of characters: Yqk Ekn M
+1)
+  Quotient = 87.07142857142857 
+  Text: Duck Season PC
+  Encryption by replacing characters with numbers: 68 117 99 107 / 83 101 97 115 111 110 / 80 67 
+2)
+  Quotient = 88.5 
+  Text: Portal 2
+  Encryption by cyclically shifting the code of each character by 4: (n = 4) Tsvxep 6
+3)
+  Quotient = 92.0 
+  Text: Coffee Talk
+  Encryption by substitution of characters: Egyytt Zqsa
+4)
+  Quotient = 99.55555555555556 
+  Text: DeathLoop
+  Encryption by cyclically shifting the code of each character by 2: (n = 2) FgcvjNqqr
+5)
+  Quotient = 107.11111111111111 
+  Text: deltarune
+  Encryption by substitution of characters: rtszqkxft
+6)
+  Quotient = 107.81818181818181 
+  Text: Inscryption
+  Encryption by replacing characters with numbers: 73 110 115 99 114 121 112 116 105 111 110 

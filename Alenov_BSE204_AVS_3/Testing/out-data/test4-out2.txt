@@ -1,0 +1,26 @@
+Sorted container
+Container contains 6 elements
+0)
+  Quotient = 82.0 
+  Text: PT
+  Encryption by cyclically shifting the code of each character by 3: (n = 3) SW
+1)
+  Quotient = 93.9375 
+  Text: Dead by daylight
+  Encryption by substitution of characters: Rtqr wn rqnsouiz
+2)
+  Quotient = 96.0909090909091 
+  Text: Dom Rusalok
+  Encryption by substitution of characters: Rgd Kxlqsga
+3)
+  Quotient = 100.5 
+  Text: TearDown
+  Encryption by cyclically shifting the code of each character by 1: (n = 1) UfbsEpxo
+4)
+  Quotient = 103.6 
+  Text: Omori
+  Encryption by replacing characters with numbers: 79 109 111 114 105 
+5)
+  Quotient = 105.875 
+  Text: Subverse
+  Encryption by substitution of characters: Lxwctklt

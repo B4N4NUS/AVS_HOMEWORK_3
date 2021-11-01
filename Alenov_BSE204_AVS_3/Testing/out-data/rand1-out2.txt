@@ -1,0 +1,22 @@
+Sorted container
+Container contains 5 elements
+0)
+  Quotient = 92.0677966101695 
+  Text:  Very gleaming files to Alvarez all with suite. dining you 
+  Encryption by substitution of characters:  Ctkn ustqdofu yostl zg Qscqktm qss vozi lxoztM rofofu ngx 
+1)
+  Quotient = 124.08984375 
+  Text:  pedestal and young I antique priceless – under office.Dr. contact one finest in evening, background.Mmmh! set office.Dr. dining Clef not morning, Vermeer trying sir? something hes you guard. I see. answering uncomfortable. one hung discuss silver. things 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  pedestal and young I antique priceless – under office.Dr. contact one finest in evening, background.Mmmh! set office.Dr. dining Clef not morning, Vermeer trying sir? something hes you guard. I see. answering uncomfortable. one hung discuss silver. things 
+2)
+  Quotient = 128.651376146789 
+  Text:  urgent right, pedestal from discuss hung sure suite. tell thats played into Clef night, and make him. night, Friday Caravaggio furniture, suddenly for Alvarez an china the recall… phone. of sir, the with then. Id hes 
+  Encryption by substitution of characters:  xkutfz kouizM htrtlzqs ykgd rolexll ixfu lxkt lxoztM ztss ziqzl hsqntr ofzg Esty fouizM qfr dqat iodM fouizM Ykorqn Eqkqcquuog yxkfozxktM lxrrtfsn ygk Qscqktm qf eiofq zit kteqssM higftM gy lokM zit vozi zitfM Or itl 
+3)
+  Quotient = 141.15625 
+  Text:  sir? desk, files tell I that and files in answering recall… of not Clef the Its the its you open standards Caravaggio Ive to a Alvarez then. under Vermeer hes 
+  Encryption by replacing characters with numbers: / 115 105 114 63 / 100 101 115 107 44 / 102 105 108 101 115 / 116 101 108 108 / 73 / 116 104 97 116 / 97 110 100 / 102 105 108 101 115 / 105 110 / 97 110 115 119 101 114 105 110 103 / 114 101 99 97 108 108 8230 / 111 102 / 110 111 116 / 67 108 101 102 / 116 104 101 / 73 116 115 / 116 104 101 / 105 116 115 / 121 111 117 / 111 112 101 110 / 115 116 97 110 100 97 114 100 115 / 67 97 114 97 118 97 103 103 105 111 / 73 118 101 / 116 111 / 97 / 65 108 118 97 114 101 122 / 116 104 101 110 46 / 117 110 100 101 114 / 86 101 114 109 101 101 114 / 104 101 115 / 
+4)
+  Quotient = 143.640522875817 
+  Text:  gold-embossed asked his night, on and I his something Friday but ornate sir? cant… from Alvarez from An any you Alvarez guard. paneling, sat to Clef up 
+  Encryption by substitution of characters:  ugsrMtdwglltr qlatr iol fouizM gf qfr O iol lgdtziofu Ykorqn wxz gkfqzt lokM eqfzM ykgd Qscqktm ykgd Qf qfn ngx Qscqktm uxqkrM hqftsofuM lqz zg Esty xh 

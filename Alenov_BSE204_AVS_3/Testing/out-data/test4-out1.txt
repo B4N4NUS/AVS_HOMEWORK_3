@@ -1,0 +1,20 @@
+Filled container:
+Container contains 6 elements
+0)
+  Text: Dom Rusalok
+  Encryption by substitution of characters: Rgd Kxlqsga
+1)
+  Text: PT
+  Encryption by cyclically shifting the code of each character by 3: (n = 3) SW
+2)
+  Text: TearDown
+  Encryption by cyclically shifting the code of each character by 1: (n = 1) UfbsEpxo
+3)
+  Text: Omori
+  Encryption by replacing characters with numbers: 79 109 111 114 105 
+4)
+  Text: Dead by daylight
+  Encryption by substitution of characters: Rtqr wn rqnsouiz
+5)
+  Text: Subverse
+  Encryption by substitution of characters: Lxwctklt

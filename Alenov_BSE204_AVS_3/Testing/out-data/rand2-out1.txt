@@ -1,0 +1,302 @@
+Filled container:
+Container contains 100 elements
+0)
+  Text:  hes an in set wallpaper, furniture, the setting discuss I Dr. well, his… wall, with the all Very Vermeer stepped Caravaggio looked antique Site-19 any then. up You Hes said, paneling, to crystal Vermeer of the his… not open 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  hes an in set wallpaper, furniture, the setting discuss I Dr. well, his… wall, with the all Very Vermeer stepped Caravaggio looked antique Site-19 any then. up You Hes said, paneling, to crystal Vermeer of the his… not open 
+1)
+  Text:  wallpaper, office.Dr. dining Its tomorrow on Clef the can locate right, his he said, glow to with If office.Dr. Site-19 setting disturbed Alto desk, Clef wallpaper, guard. his his… been instructions wait 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  wallpaper, office.Dr. dining Its tomorrow on Clef the can locate right, his he said, glow to with If office.Dr. Site-19 setting disturbed Alto desk, Clef wallpaper, guard. his his… been instructions wait 
+2)
+  Text:  cant… china other. door instructions circumstances, open gleaming paneling, up wait Ive make right, under with 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  cant… china other. door instructions circumstances, open gleaming paneling, up wait Ive make right, under with 
+3)
+  Text:  can softly sir? of suppose suddenly warm of stepped in I the lavish, hung nearby, Hes 
+  Encryption by replacing characters with numbers: / 99 97 110 / 115 111 102 116 108 121 / 115 105 114 63 / 111 102 / 115 117 112 112 111 115 101 / 115 117 100 100 101 110 108 121 / 119 97 114 109 / 111 102 / 115 116 101 112 112 101 100 / 105 110 / 73 / 116 104 101 / 108 97 118 105 115 104 44 / 104 117 110 103 / 110 101 97 114 98 121 44 / 72 101 115 / 
+4)
+  Text:  warm Alvarez the youll 
+  Encryption by replacing characters with numbers: / 119 97 114 109 / 65 108 118 97 114 101 122 / 116 104 101 / 121 111 117 108 108 / 
+5)
+  Text:  Caravaggio gleaming room Alvarez paneling, setting hes contact I fixing stepped Hes Ive of and vase sure Well, the yes.And tell been vase chandelier; Ive hes priceless in Its suppose hung An ornate left I Hes discuss sir. stepped Dr. 
+  Encryption by replacing characters with numbers: / 67 97 114 97 118 97 103 103 105 111 / 103 108 101 97 109 105 110 103 / 114 111 111 109 / 65 108 118 97 114 101 122 / 112 97 110 101 108 105 110 103 44 / 115 101 116 116 105 110 103 / 104 101 115 / 99 111 110 116 97 99 116 / 73 / 102 105 120 105 110 103 / 115 116 101 112 112 101 100 / 72 101 115 / 73 118 101 / 111 102 / 97 110 100 / 118 97 115 101 / 115 117 114 101 / 87 101 108 108 44 / 116 104 101 / 121 101 115 46 65 110 100 / 116 101 108 108 / 98 101 101 110 / 118 97 115 101 / 99 104 97 110 100 101 108 105 101 114 59 / 73 118 101 / 104 101 115 / 112 114 105 99 101 108 101 115 115 / 105 110 / 73 116 115 / 115 117 112 112 111 115 101 / 104 117 110 103 / 65 110 / 111 114 110 97 116 101 / 108 101 102 116 / 73 / 72 101 115 / 100 105 115 99 117 115 115 / 115 105 114 46 / 115 116 101 112 112 101 100 / 68 114 46 / 
+6)
+  Text:  But locate Its sir? fixing answering sat other. Ming his… But gaze 
+  Encryption by substitution of characters:  Wxz sgeqzt Ozl lokM yobofu qflvtkofu lqz gzitkM Dofu iolM Wxz uqmt 
+7)
+  Text:  but the and guard. sat 18th trying Well, things Ming on tomorrow 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  but the and guard. sat 18th trying Well, things Ming on tomorrow 
+8)
+  Text:  nearby, furniture, the said, Oh, 18th something not I on 
+  Encryption by substitution of characters:  ftqkwnM yxkfozxktM zit lqorM GiM MMzi lgdtziofu fgz O gf 
+9)
+  Text:  Id china paneling, the by I gaze up his… Barry the for any him his files not him thats to the me, sir. room up morning, Id his urgent hes hes to hes any wait open silver. 
+  Encryption by substitution of characters:  Or eiofq hqftsofuM zit wn O uqmt xh iolM Wqkkn zit ygk qfn iod iol yostl fgz iod ziqzl zg zit dtM lokM kggd xh dgkfofuM Or iol xkutfz itl itl zg itl qfn vqoz ghtf losctkM 
+10)
+  Text:  have asked contact all up sir. office.Dr. by sir? – up priceless urgent Caravaggio any the Alto An on a I furniture, the Alvarez oak night, An sir? century finest uncomfortable. exclaimed, The urgent Alvarez until to gleaming sure like 
+  Encryption by replacing characters with numbers: / 104 97 118 101 / 97 115 107 101 100 / 99 111 110 116 97 99 116 / 97 108 108 / 117 112 / 115 105 114 46 / 111 102 102 105 99 101 46 68 114 46 / 98 121 / 115 105 114 63 / 8211 / 117 112 / 112 114 105 99 101 108 101 115 115 / 117 114 103 101 110 116 / 67 97 114 97 118 97 103 103 105 111 / 97 110 121 / 116 104 101 / 65 108 116 111 / 65 110 / 111 110 / 97 / 73 / 102 117 114 110 105 116 117 114 101 44 / 116 104 101 / 65 108 118 97 114 101 122 / 111 97 107 / 110 105 103 104 116 44 / 65 110 / 115 105 114 63 / 99 101 110 116 117 114 121 / 102 105 110 101 115 116 / 117 110 99 111 109 102 111 114 116 97 98 108 101 46 / 101 120 99 108 97 105 109 101 100 44 / 84 104 101 / 117 114 103 101 110 116 / 65 108 118 97 114 101 122 / 117 110 116 105 108 / 116 111 / 103 108 101 97 109 105 110 103 / 115 117 114 101 / 108 105 107 101 / 
+11)
+  Text:  place right, on one the Friday asked have 18th office.Dr. Alto with Caravaggio the on the his… If his the any An the the office priceless 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  place right, on one the Friday asked have 18th office.Dr. Alto with Caravaggio the on the his… If his the any An the the office priceless 
+12)
+  Text:  White looked chandelier; have gold-embossed the to china in Alvarez place cant… fixing the the morning, was chandelier; on suppose wait his his Well, wallpaper, gleaming century contact sir. Alvarez Alvarez asked right, yes.And not Clef and suite. all 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  White looked chandelier; have gold-embossed the to china in Alvarez place cant… fixing the the morning, was chandelier; on suppose wait his his Well, wallpaper, gleaming century contact sir. Alvarez Alvarez asked right, yes.And not Clef and suite. all 
+13)
+  Text:  oak cant… the all gleaming evening, the his office.Dr. standards Gears its open circumstances, Clef any desk, Clef by him exclaimed, a Oh, him answering his exclaimed, place fixing all his suddenly into left background.Mmmh! other. I 
+  Encryption by substitution of characters:  gqa eqfzM zit qss ustqdofu tctfofuM zit iol gyyoetMRkM lzqfrqkrl Utqkl ozl ghtf eokexdlzqfetlM Esty qfn rtlaM Esty wn iod tbesqodtrM q GiM iod qflvtkofu iol tbesqodtrM hsqet yobofu qss iol lxrrtfsn ofzg styz wqeaukgxfrMDddiM gzitkM O 
+14)
+  Text:  asked been the hung any the wall, crystal Its to for sir. softly 
+  Encryption by substitution of characters:  qlatr wttf zit ixfu qfn zit vqssM eknlzqs Ozl zg ygk lokM lgyzsn 
+15)
+  Text:  uncomfortable. then. any the and me, finest can not sure 18th warm up discuss White the circumstances, with his suddenly into Its silver. uncomfortable. – 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  uncomfortable. then. any the and me, finest can not sure 18th warm up discuss White the circumstances, with his suddenly into Its silver. uncomfortable. – 
+16)
+  Text:  in suite. for background.Mmmh! thats sir. to Barry all priceless silver. cant… of to see. Dr. Dr. by Alto I Yes, desk, guard. the Alvarez right, phone. him dining any fixing left the The to into but You If 
+  Encryption by replacing characters with numbers: / 105 110 / 115 117 105 116 101 46 / 102 111 114 / 98 97 99 107 103 114 111 117 110 100 46 77 109 109 104 33 / 116 104 97 116 115 / 115 105 114 46 / 116 111 / 66 97 114 114 121 / 97 108 108 / 112 114 105 99 101 108 101 115 115 / 115 105 108 118 101 114 46 / 99 97 110 116 8230 / 111 102 / 116 111 / 115 101 101 46 / 68 114 46 / 68 114 46 / 98 121 / 65 108 116 111 / 73 / 89 101 115 44 / 100 101 115 107 44 / 103 117 97 114 100 46 / 116 104 101 / 65 108 118 97 114 101 122 / 114 105 103 104 116 44 / 112 104 111 110 101 46 / 104 105 109 / 100 105 110 105 110 103 / 97 110 121 / 102 105 120 105 110 103 / 108 101 102 116 / 116 104 101 / 84 104 101 / 116 111 / 105 110 116 111 / 98 117 116 / 89 111 117 / 73 102 / 
+17)
+  Text:  stepped left disturbed warm 18th I to Its to recall… to things he like have Alto sir? vase the to looked a the – that him Clef suite. his – asked Alto until the room suite. 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  stepped left disturbed warm 18th I to Its to recall… to things he like have Alto sir? vase the to looked a the – that him Clef suite. his – asked Alto until the room suite. 
+18)
+  Text:  silver. Site-19 hung Caravaggio hes of the I me, all in him the you on to hung 
+  Encryption by substitution of characters:  losctkM LoztMMM ixfu Eqkqcquuog itl gy zit O dtM qss of iod zit ngx gf zg ixfu 
+19)
+  Text:  on the sir, Clef his him recall… furniture, youll evening, 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  on the sir, Clef his him recall… furniture, youll evening, 
+20)
+  Text:  background.Mmmh! urgent century well, the tomorrow the glow see. You 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  background.Mmmh! urgent century well, the tomorrow the glow see. You 
+21)
+  Text:  White setting for tomorrow have see. recall… into evening, silver. well, suppose played I I his the guard. vase him of Ming until files Alvarez then. his Oh, An me, morning, him. suddenly 
+  Encryption by replacing characters with numbers: / 87 104 105 116 101 / 115 101 116 116 105 110 103 / 102 111 114 / 116 111 109 111 114 114 111 119 / 104 97 118 101 / 115 101 101 46 / 114 101 99 97 108 108 8230 / 105 110 116 111 / 101 118 101 110 105 110 103 44 / 115 105 108 118 101 114 46 / 119 101 108 108 44 / 115 117 112 112 111 115 101 / 112 108 97 121 101 100 / 73 / 73 / 104 105 115 / 116 104 101 / 103 117 97 114 100 46 / 118 97 115 101 / 104 105 109 / 111 102 / 77 105 110 103 / 117 110 116 105 108 / 102 105 108 101 115 / 65 108 118 97 114 101 122 / 116 104 101 110 46 / 104 105 115 / 79 104 44 / 65 110 / 109 101 44 / 109 111 114 110 105 110 103 44 / 104 105 109 46 / 115 117 100 100 101 110 108 121 / 
+22)
+  Text:  and all Hes uncomfortable. suppose up background.Mmmh! into morning, Its under trying other. exclaimed, Alvarez in make sir. by security background.Mmmh! and 
+  Encryption by replacing characters with numbers: / 97 110 100 / 97 108 108 / 72 101 115 / 117 110 99 111 109 102 111 114 116 97 98 108 101 46 / 115 117 112 112 111 115 101 / 117 112 / 98 97 99 107 103 114 111 117 110 100 46 77 109 109 104 33 / 105 110 116 111 / 109 111 114 110 105 110 103 44 / 73 116 115 / 117 110 100 101 114 / 116 114 121 105 110 103 / 111 116 104 101 114 46 / 101 120 99 108 97 105 109 101 100 44 / 65 108 118 97 114 101 122 / 105 110 / 109 97 107 101 / 115 105 114 46 / 98 121 / 115 101 99 117 114 105 116 121 / 98 97 99 107 103 114 111 117 110 100 46 77 109 109 104 33 / 97 110 100 / 
+23)
+  Text:  wall, Ming urgent to young looked exclaimed, all left not left sat said, crystal night, hung gleaming place was dining any its on a with files sat asked on Caravaggio china night, Ming office.Dr. priceless 
+  Encryption by substitution of characters:  vqssM Dofu xkutfz zg ngxfu sggatr tbesqodtrM qss styz fgz styz lqz lqorM eknlzqs fouizM ixfu ustqdofu hsqet vql rofofu qfn ozl gf q vozi yostl lqz qlatr gf Eqkqcquuog eiofq fouizM Dofu gyyoetMRkM hkoetstll 
+24)
+  Text:  desk, hes and the tell with 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  desk, hes and the tell with 
+25)
+  Text:  But see. tell not If have Gears exclaimed, lavish, then. a with If nearby, sat Barry left locate not any to evening, not hes Yes, set his like Yes, Dr. on 
+  Encryption by replacing characters with numbers: / 66 117 116 / 115 101 101 46 / 116 101 108 108 / 110 111 116 / 73 102 / 104 97 118 101 / 71 101 97 114 115 / 101 120 99 108 97 105 109 101 100 44 / 108 97 118 105 115 104 44 / 116 104 101 110 46 / 97 / 119 105 116 104 / 73 102 / 110 101 97 114 98 121 44 / 115 97 116 / 66 97 114 114 121 / 108 101 102 116 / 108 111 99 97 116 101 / 110 111 116 / 97 110 121 / 116 111 / 101 118 101 110 105 110 103 44 / 110 111 116 / 104 101 115 / 89 101 115 44 / 115 101 116 / 104 105 115 / 108 105 107 101 / 89 101 115 44 / 68 114 46 / 111 110 / 
+26)
+  Text:  Well, to on in Clef the then. vase to his nearby, left wall, Alvarez wallpaper, the I him Id sir. that finest asked Alto Well, century contact up chandelier; Site-19 one the circumstances, Site-19 yes.And Barry 
+  Encryption by substitution of characters:  VtssM zg gf of Esty zit zitfM cqlt zg iol ftqkwnM styz vqssM Qscqktm vqsshqhtkM zit O iod Or lokM ziqz yoftlz qlatr Qszg VtssM etfzxkn egfzqez xh eiqfrtsotkM LoztMMM gft zit eokexdlzqfetlM LoztMMM ntlMQfr Wqkkn 
+27)
+  Text:  place glow Ming him have 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  place glow Ming him have 
+28)
+  Text:  White his evening, one ornate sir, and on looked sure on looked room left sat asked him was him. yes.And Yes, Clef all finest Well, background.Mmmh! sir. him. right, not and from gaze by 
+  Encryption by replacing characters with numbers: / 87 104 105 116 101 / 104 105 115 / 101 118 101 110 105 110 103 44 / 111 110 101 / 111 114 110 97 116 101 / 115 105 114 44 / 97 110 100 / 111 110 / 108 111 111 107 101 100 / 115 117 114 101 / 111 110 / 108 111 111 107 101 100 / 114 111 111 109 / 108 101 102 116 / 115 97 116 / 97 115 107 101 100 / 104 105 109 / 119 97 115 / 104 105 109 46 / 121 101 115 46 65 110 100 / 89 101 115 44 / 67 108 101 102 / 97 108 108 / 102 105 110 101 115 116 / 87 101 108 108 44 / 98 97 99 107 103 114 111 117 110 100 46 77 109 109 104 33 / 115 105 114 46 / 104 105 109 46 / 114 105 103 104 116 44 / 110 111 116 / 97 110 100 / 102 114 111 109 / 103 97 122 101 / 98 121 / 
+29)
+  Text:  ornate sir, sir. asked right, glow 
+  Encryption by substitution of characters:  gkfqzt lokM lokM qlatr kouizM usgv 
+30)
+  Text:  suddenly Clef in was his an hes door any until his… Gears An hes gaze Alvarez I disturbed left other. oak to yes.And discuss If Ive for with trying circumstances, setting Dr. Alvarez furniture, stepped Yes, 
+  Encryption by substitution of characters:  lxrrtfsn Esty of vql iol qf itl rggk qfn xfzos iolM Utqkl Qf itl uqmt Qscqktm O rolzxkwtr styz gzitkM gqa zg ntlMQfr rolexll Oy Oct ygk vozi zknofu eokexdlzqfetlM ltzzofu RkM Qscqktm yxkfozxktM lzthhtr NtlM 
+31)
+  Text:  the all then. room crystal and not his not tell with in you background.Mmmh! table White the he contact right, him warm yes.And other. the and Its I thats right, 
+  Encryption by substitution of characters:  zit qss zitfM kggd eknlzqs qfr fgz iol fgz ztss vozi of ngx wqeaukgxfrMDddiM zqwst Viozt zit it egfzqez kouizM iod vqkd ntlMQfr gzitkM zit qfr Ozl O ziqzl kouizM 
+32)
+  Text:  crystal under things office.Dr. gaze Clef desk, Clef gold-embossed Alvarez him suddenly thats warm urgent and something gaze locate yes.And wallpaper, be the can table night, background.Mmmh! suite. suppose something 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  crystal under things office.Dr. gaze Clef desk, Clef gold-embossed Alvarez him suddenly thats warm urgent and something gaze locate yes.And wallpaper, be the can table night, background.Mmmh! suite. suppose something 
+33)
+  Text:  the have him Very have disturbed with the Its the china thats Clef I in 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  the have him Very have disturbed with the Its the china thats Clef I in 
+34)
+  Text:  on evening, set discuss Friday in fixing exclaimed, sir. on gaze The any on guard. priceless Dr. Vermeer uncomfortable. urgent morning, been on disturbed Site-19 a vase that Gears Well, Oh, the paneling, Clef night, chandelier; 
+  Encryption by replacing characters with numbers: / 111 110 / 101 118 101 110 105 110 103 44 / 115 101 116 / 100 105 115 99 117 115 115 / 70 114 105 100 97 121 / 105 110 / 102 105 120 105 110 103 / 101 120 99 108 97 105 109 101 100 44 / 115 105 114 46 / 111 110 / 103 97 122 101 / 84 104 101 / 97 110 121 / 111 110 / 103 117 97 114 100 46 / 112 114 105 99 101 108 101 115 115 / 68 114 46 / 86 101 114 109 101 101 114 / 117 110 99 111 109 102 111 114 116 97 98 108 101 46 / 117 114 103 101 110 116 / 109 111 114 110 105 110 103 44 / 98 101 101 110 / 111 110 / 100 105 115 116 117 114 98 101 100 / 83 105 116 101 45 49 57 / 97 / 118 97 115 101 / 116 104 97 116 / 71 101 97 114 115 / 87 101 108 108 44 / 79 104 44 / 116 104 101 / 112 97 110 101 108 105 110 103 44 / 67 108 101 102 / 110 105 103 104 116 44 / 99 104 97 110 100 101 108 105 101 114 59 / 
+35)
+  Text:  china Gears instructions chandelier; evening, 
+  Encryption by substitution of characters:  eiofq Utqkl oflzkxezogfl eiqfrtsotkM tctfofuM 
+36)
+  Text:  china up locate one left files White exclaimed, to 
+  Encryption by replacing characters with numbers: / 99 104 105 110 97 / 117 112 / 108 111 99 97 116 101 / 111 110 101 / 108 101 102 116 / 102 105 108 101 115 / 87 104 105 116 101 / 101 120 99 108 97 105 109 101 100 44 / 116 111 / 
+37)
+  Text:  all with in yes.And office and the 
+  Encryption by replacing characters with numbers: / 97 108 108 / 119 105 116 104 / 105 110 / 121 101 115 46 65 110 100 / 111 102 102 105 99 101 / 97 110 100 / 116 104 101 / 
+38)
+  Text:  and his on urgent vase to sir. morning, his… Barry circumstances, Ming with Oh, You his yes.And glow to sir. discuss Dr. an Friday finest the instructions not not of instructions a said, 
+  Encryption by substitution of characters:  qfr iol gf xkutfz cqlt zg lokM dgkfofuM iolM Wqkkn eokexdlzqfetlM Dofu vozi GiM Ngx iol ntlMQfr usgv zg lokM rolexll RkM qf Ykorqn yoftlz zit oflzkxezogfl fgz fgz gy oflzkxezogfl q lqorM 
+39)
+  Text:  wallpaper, original Alto Yes, all 
+  Encryption by substitution of characters:  vqsshqhtkM gkouofqs Qszg NtlM qss 
+40)
+  Text:  Friday have wallpaper, trying the the like the on White he things asked of dining 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  Friday have wallpaper, trying the the like the on White he things asked of dining 
+41)
+  Text:  the the all the left The was been left discuss If asked night, sir, Friday – exclaimed, hung Hes Vermeer Well, in sat yes.And sir? desk, on Alto hes in his Ive Vermeer sure young and left china right, 
+  Encryption by replacing characters with numbers: / 116 104 101 / 116 104 101 / 97 108 108 / 116 104 101 / 108 101 102 116 / 84 104 101 / 119 97 115 / 98 101 101 110 / 108 101 102 116 / 100 105 115 99 117 115 115 / 73 102 / 97 115 107 101 100 / 110 105 103 104 116 44 / 115 105 114 44 / 70 114 105 100 97 121 / 8211 / 101 120 99 108 97 105 109 101 100 44 / 104 117 110 103 / 72 101 115 / 86 101 114 109 101 101 114 / 87 101 108 108 44 / 105 110 / 115 97 116 / 121 101 115 46 65 110 100 / 115 105 114 63 / 100 101 115 107 44 / 111 110 / 65 108 116 111 / 104 101 115 / 105 110 / 104 105 115 / 73 118 101 / 86 101 114 109 101 101 114 / 115 117 114 101 / 121 111 117 110 103 / 97 110 100 / 108 101 102 116 / 99 104 105 110 97 / 114 105 103 104 116 44 / 
+42)
+  Text:  disturbed I other. instructions a thats lavish, cant… you the not the up tell silver. Caravaggio for to until 
+  Encryption by substitution of characters:  rolzxkwtr O gzitkM oflzkxezogfl q ziqzl sqcoliM eqfzM ngx zit fgz zit xh ztss losctkM Eqkqcquuog ygk zg xfzos 
+43)
+  Text:  all make left Gears can urgent vase Oh, phone. glow up you Dr. files office.Dr. that ornate Well, right, 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  all make left Gears can urgent vase Oh, phone. glow up you Dr. files office.Dr. that ornate Well, right, 
+44)
+  Text:  a An pedestal circumstances, the But young in oak left original files can of guard. left its his you urgent make office make urgent softly 18th with Id Alvarez Ive circumstances, up hes door sir, well, right, the 
+  Encryption by substitution of characters:  q Qf htrtlzqs eokexdlzqfetlM zit Wxz ngxfu of gqa styz gkouofqs yostl eqf gy uxqkrM styz ozl iol ngx xkutfz dqat gyyoet dqat xkutfz lgyzsn MMzi vozi Or Qscqktm Oct eokexdlzqfetlM xh itl rggk lokM vtssM kouizM zit 
+45)
+  Text:  sir. table suddenly the table yes.And an right, on his setting tell oak Clef Ive I priceless his was disturbed Site-19 door locate recall… 
+  Encryption by substitution of characters:  lokM zqwst lxrrtfsn zit zqwst ntlMQfr qf kouizM gf iol ltzzofu ztss gqa Esty Oct O hkoetstll iol vql rolzxkwtr LoztMMM rggk sgeqzt kteqssM 
+46)
+  Text:  him. phone. discuss his antique well, original 18th youll but Alvarez his looked his right, young trying fixing gold-embossed until Alto Well, Gears looked guard. wallpaper, the his 
+  Encryption by replacing characters with numbers: / 104 105 109 46 / 112 104 111 110 101 46 / 100 105 115 99 117 115 115 / 104 105 115 / 97 110 116 105 113 117 101 / 119 101 108 108 44 / 111 114 105 103 105 110 97 108 / 49 56 116 104 / 121 111 117 108 108 / 98 117 116 / 65 108 118 97 114 101 122 / 104 105 115 / 108 111 111 107 101 100 / 104 105 115 / 114 105 103 104 116 44 / 121 111 117 110 103 / 116 114 121 105 110 103 / 102 105 120 105 110 103 / 103 111 108 100 45 101 109 98 111 115 115 101 100 / 117 110 116 105 108 / 65 108 116 111 / 87 101 108 108 44 / 71 101 97 114 115 / 108 111 111 107 101 100 / 103 117 97 114 100 46 / 119 97 108 108 112 97 112 101 114 44 / 116 104 101 / 104 105 115 / 
+47)
+  Text:  place one all Yes, into ornate him. sir. suddenly have his things an tell then. one hes can his on tell Caravaggio 
+  Encryption by substitution of characters:  hsqet gft qss NtlM ofzg gkfqzt iodM lokM lxrrtfsn iqct iol zioful qf ztss zitfM gft itl eqf iol gf ztss Eqkqcquuog 
+48)
+  Text:  cant… discuss the on Alvarez from gleaming setting security Hes his sure Site-19 Alto the dining lavish, Alvarez Id cant… office original not background.Mmmh! well, an 
+  Encryption by replacing characters with numbers: / 99 97 110 116 8230 / 100 105 115 99 117 115 115 / 116 104 101 / 111 110 / 65 108 118 97 114 101 122 / 102 114 111 109 / 103 108 101 97 109 105 110 103 / 115 101 116 116 105 110 103 / 115 101 99 117 114 105 116 121 / 72 101 115 / 104 105 115 / 115 117 114 101 / 83 105 116 101 45 49 57 / 65 108 116 111 / 116 104 101 / 100 105 110 105 110 103 / 108 97 118 105 115 104 44 / 65 108 118 97 114 101 122 / 73 100 / 99 97 110 116 8230 / 111 102 102 105 99 101 / 111 114 105 103 105 110 97 108 / 110 111 116 / 98 97 99 107 103 114 111 117 110 100 46 77 109 109 104 33 / 119 101 108 108 44 / 97 110 / 
+49)
+  Text:  paneling, the asked his under wallpaper, his on circumstances, vase can the I then. and Clef you the guard. – phone. all one oak door trying have original Clef 
+  Encryption by substitution of characters:  hqftsofuM zit qlatr iol xfrtk vqsshqhtkM iol gf eokexdlzqfetlM cqlt eqf zit O zitfM qfr Esty ngx zit uxqkrM M higftM qss gft gqa rggk zknofu iqct gkouofqs Esty 
+50)
+  Text:  one a 18th been the him The 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  one a 18th been the him The 
+51)
+  Text:  the background.Mmmh! Clef his not him to youll An priceless Clef right, priceless recall… 18th from said, recall… office.Dr. contact him. not to open set asked an have 
+  Encryption by replacing characters with numbers: / 116 104 101 / 98 97 99 107 103 114 111 117 110 100 46 77 109 109 104 33 / 67 108 101 102 / 104 105 115 / 110 111 116 / 104 105 109 / 116 111 / 121 111 117 108 108 / 65 110 / 112 114 105 99 101 108 101 115 115 / 67 108 101 102 / 114 105 103 104 116 44 / 112 114 105 99 101 108 101 115 115 / 114 101 99 97 108 108 8230 / 49 56 116 104 / 102 114 111 109 / 115 97 105 100 44 / 114 101 99 97 108 108 8230 / 111 102 102 105 99 101 46 68 114 46 / 99 111 110 116 97 99 116 / 104 105 109 46 / 110 111 116 / 116 111 / 111 112 101 110 / 115 101 116 / 97 115 107 101 100 / 97 110 / 104 97 118 101 / 
+52)
+  Text:  desk, from played suddenly Oh, a him. the youll tomorrow on to 
+  Encryption by substitution of characters:  rtlaM ykgd hsqntr lxrrtfsn GiM q iodM zit ngxss zgdgkkgv gf zg 
+53)
+  Text:  with Clef in Alto recall… 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  with Clef in Alto recall… 
+54)
+  Text:  disturbed china of silver. suite. lavish, Barry ornate of 
+  Encryption by replacing characters with numbers: / 100 105 115 116 117 114 98 101 100 / 99 104 105 110 97 / 111 102 / 115 105 108 118 101 114 46 / 115 117 105 116 101 46 / 108 97 118 105 115 104 44 / 66 97 114 114 121 / 111 114 110 97 116 101 / 111 102 / 
+55)
+  Text:  asked be the into silver. Very fixing standards uncomfortable. urgent have place hes finest pedestal trying Its Gears up priceless suppose furniture, not Very The night, paneling, 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  asked be the into silver. Very fixing standards uncomfortable. urgent have place hes finest pedestal trying Its Gears up priceless suppose furniture, not Very The night, paneling, 
+56)
+  Text:  – guard. sat in White circumstances, 
+  Encryption by substitution of characters:  M uxqkrM lqz of Viozt eokexdlzqfetlM 
+57)
+  Text:  left yes.And on warm nearby, to desk, I discuss crystal uncomfortable. Well, looked his 18th an furniture, urgent 
+  Encryption by substitution of characters:  styz ntlMQfr gf vqkd ftqkwnM zg rtlaM O rolexll eknlzqs xfegdygkzqwstM VtssM sggatr iol MMzi qf yxkfozxktM xkutfz 
+58)
+  Text:  in answering files a antique one Gears yes.And 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  in answering files a antique one Gears yes.And 
+59)
+  Text:  can door with century under his… something one guard. Alvarez the 
+  Encryption by replacing characters with numbers: / 99 97 110 / 100 111 111 114 / 119 105 116 104 / 99 101 110 116 117 114 121 / 117 110 100 101 114 / 104 105 115 8230 / 115 111 109 101 116 104 105 110 103 / 111 110 101 / 103 117 97 114 100 46 / 65 108 118 97 114 101 122 / 116 104 101 / 
+60)
+  Text:  Clef not on The glow phone. finest wait locate phone. I phone. I sir, asked on Vermeer right, silver. place that into security 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  Clef not on The glow phone. finest wait locate phone. I phone. I sir, asked on Vermeer right, silver. place that into security 
+61)
+  Text:  paneling, asked sir, tell door uncomfortable. the gleaming the fixing see. gold-embossed that the antique his and Clef well, urgent with that I Gears 
+  Encryption by replacing characters with numbers: / 112 97 110 101 108 105 110 103 44 / 97 115 107 101 100 / 115 105 114 44 / 116 101 108 108 / 100 111 111 114 / 117 110 99 111 109 102 111 114 116 97 98 108 101 46 / 116 104 101 / 103 108 101 97 109 105 110 103 / 116 104 101 / 102 105 120 105 110 103 / 115 101 101 46 / 103 111 108 100 45 101 109 98 111 115 115 101 100 / 116 104 97 116 / 116 104 101 / 97 110 116 105 113 117 101 / 104 105 115 / 97 110 100 / 67 108 101 102 / 119 101 108 108 44 / 117 114 103 101 110 116 / 119 105 116 104 / 116 104 97 116 / 73 / 71 101 97 114 115 / 
+62)
+  Text:  hung furniture, Hes he setting contact to right, Alvarez to the White paneling, until Dr. up setting pedestal answering stepped desk, open he asked answering If his door other. of night, warm 
+  Encryption by substitution of characters:  ixfu yxkfozxktM Itl it ltzzofu egfzqez zg kouizM Qscqktm zg zit Viozt hqftsofuM xfzos RkM xh ltzzofu htrtlzqs qflvtkofu lzthhtr rtlaM ghtf it qlatr qflvtkofu Oy iol rggk gzitkM gy fouizM vqkd 
+63)
+  Text:  evening, nearby, Ive youll sir. 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  evening, nearby, Ive youll sir. 
+64)
+  Text:  other. until gaze office.Dr. right, asked young uncomfortable. of suite. see. left Well, any trying warm you but uncomfortable. Well, one Friday said, on contact sat hes Well, original his and on 
+  Encryption by substitution of characters:  gzitkM xfzos uqmt gyyoetMRkM kouizM qlatr ngxfu xfegdygkzqwstM gy lxoztM lttM styz VtssM qfn zknofu vqkd ngx wxz xfegdygkzqwstM VtssM gft Ykorqn lqorM gf egfzqez lqz itl VtssM gkouofqs iol qfr gf 
+65)
+  Text:  all hes century hes morning, Alvarez of locate recall… furniture, exclaimed, young to youll young other. The Alvarez wait Ming the White Oh, can into not If trying I place hes his him wallpaper, 
+  Encryption by replacing characters with numbers: / 97 108 108 / 104 101 115 / 99 101 110 116 117 114 121 / 104 101 115 / 109 111 114 110 105 110 103 44 / 65 108 118 97 114 101 122 / 111 102 / 108 111 99 97 116 101 / 114 101 99 97 108 108 8230 / 102 117 114 110 105 116 117 114 101 44 / 101 120 99 108 97 105 109 101 100 44 / 121 111 117 110 103 / 116 111 / 121 111 117 108 108 / 121 111 117 110 103 / 111 116 104 101 114 46 / 84 104 101 / 65 108 118 97 114 101 122 / 119 97 105 116 / 77 105 110 103 / 116 104 101 / 87 104 105 116 101 / 79 104 44 / 99 97 110 / 105 110 116 111 / 110 111 116 / 73 102 / 116 114 121 105 110 103 / 73 / 112 108 97 99 101 / 104 101 115 / 104 105 115 / 104 105 109 / 119 97 108 108 112 97 112 101 114 44 / 
+66)
+  Text:  Barry suppose night, Clef gleaming gold-embossed But me, softly lavish, office.Dr. 18th the Barry Oh, setting contact – its Clef Oh, nearby, asked 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  Barry suppose night, Clef gleaming gold-embossed But me, softly lavish, office.Dr. 18th the Barry Oh, setting contact – its Clef Oh, nearby, asked 
+67)
+  Text:  to office.Dr. Ive thats the Vermeer sat the to 
+  Encryption by replacing characters with numbers: / 116 111 / 111 102 102 105 99 101 46 68 114 46 / 73 118 101 / 116 104 97 116 115 / 116 104 101 / 86 101 114 109 101 101 114 / 115 97 116 / 116 104 101 / 116 111 / 
+68)
+  Text:  phone. in to the things gleaming right, sure Alto phone. the him his You desk, setting cant… be right, then. priceless the Very gold-embossed in Barry any left see. 
+  Encryption by substitution of characters:  higftM of zg zit zioful ustqdofu kouizM lxkt Qszg higftM zit iod iol Ngx rtlaM ltzzofu eqfzM wt kouizM zitfM hkoetstll zit Ctkn ugsrMtdwglltr of Wqkkn qfn styz lttM 
+69)
+  Text:  on the place lavish, me, sir. Id china 
+  Encryption by replacing characters with numbers: / 111 110 / 116 104 101 / 112 108 97 99 101 / 108 97 118 105 115 104 44 / 109 101 44 / 115 105 114 46 / 73 100 / 99 104 105 110 97 / 
+70)
+  Text:  place of uncomfortable. on asked – If You Hes asked under Clef he warm suppose the his background.Mmmh! morning, asked on If any I all from left Its 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  place of uncomfortable. on asked – If You Hes asked under Clef he warm suppose the his background.Mmmh! morning, asked on If any I all from left Its 
+71)
+  Text:  that Alvarez and set tell paneling, chandelier; Site-19 things china right, 18th sure sure Alvarez I left hes was china well, paneling, White under open tomorrow But you the with Ming uncomfortable. open century the suddenly you on instructions his 
+  Encryption by substitution of characters:  ziqz Qscqktm qfr ltz ztss hqftsofuM eiqfrtsotkM LoztMMM zioful eiofq kouizM MMzi lxkt lxkt Qscqktm O styz itl vql eiofq vtssM hqftsofuM Viozt xfrtk ghtf zgdgkkgv Wxz ngx zit vozi Dofu xfegdygkzqwstM ghtf etfzxkn zit lxrrtfsn ngx gf oflzkxezogfl iol 
+72)
+  Text:  not like guard. the the door wallpaper, – nearby, Site-19 for sat to the Gears The Gears instructions the have to paneling, but not not up sir? If all been not files gaze his the trying 
+  Encryption by substitution of characters:  fgz soat uxqkrM zit zit rggk vqsshqhtkM M ftqkwnM LoztMMM ygk lqz zg zit Utqkl Zit Utqkl oflzkxezogfl zit iqct zg hqftsofuM wxz fgz fgz xh lokM Oy qss wttf fgz yostl uqmt iol zit zknofu 
+73)
+  Text:  any stepped right, but suppose left trying files any open silver. The in gaze 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  any stepped right, but suppose left trying files any open silver. The in gaze 
+74)
+  Text:  sir? other. the Clef Oh, recall… – on vase not Clef the with sir. the the and guard. sir? office all and uncomfortable. wall, on tell I on the Clef trying lavish, priceless glow Clef hes the him 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  sir? other. the Clef Oh, recall… – on vase not Clef the with sir. the the and guard. sir? office all and uncomfortable. wall, on tell I on the Clef trying lavish, priceless glow Clef hes the him 
+75)
+  Text:  he lavish, on gaze in security his wallpaper, into suddenly from on softly 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  he lavish, on gaze in security his wallpaper, into suddenly from on softly 
+76)
+  Text:  him. lavish, gaze the 
+  Encryption by replacing characters with numbers: / 104 105 109 46 / 108 97 118 105 115 104 44 / 103 97 122 101 / 116 104 101 / 
+77)
+  Text:  up Hes priceless finest suppose things Yes, of Clef answering hung any any You crystal sure sat century sure silver. hes 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  up Hes priceless finest suppose things Yes, of Clef answering hung any any You crystal sure sat century sure silver. hes 
+78)
+  Text:  on you its yes.And him. on up hung exclaimed, him its antique him. crystal sat well, sir? the and his wallpaper, vase one tomorrow trying security well, the asked played hung in Well, disturbed right, softly 
+  Encryption by substitution of characters:  gf ngx ozl ntlMQfr iodM gf xh ixfu tbesqodtrM iod ozl qfzojxt iodM eknlzqs lqz vtssM lokM zit qfr iol vqsshqhtkM cqlt gft zgdgkkgv zknofu ltexkozn vtssM zit qlatr hsqntr ixfu of VtssM rolzxkwtr kouizM lgyzsn 
+79)
+  Text:  with I sir, to him locate suddenly him to suppose evening, Clef asked locate Dr. but hes the 
+  Encryption by replacing characters with numbers: / 119 105 116 104 / 73 / 115 105 114 44 / 116 111 / 104 105 109 / 108 111 99 97 116 101 / 115 117 100 100 101 110 108 121 / 104 105 109 / 116 111 / 115 117 112 112 111 115 101 / 101 118 101 110 105 110 103 44 / 67 108 101 102 / 97 115 107 101 100 / 108 111 99 97 116 101 / 68 114 46 / 98 117 116 / 104 101 115 / 116 104 101 / 
+80)
+  Text:  Id silver. set youll answering sat the Alvarez Yes, in gleaming from Clef was I hes played circumstances, gold-embossed Hes the morning, his until see. all 
+  Encryption by replacing characters with numbers: / 73 100 / 115 105 108 118 101 114 46 / 115 101 116 / 121 111 117 108 108 / 97 110 115 119 101 114 105 110 103 / 115 97 116 / 116 104 101 / 65 108 118 97 114 101 122 / 89 101 115 44 / 105 110 / 103 108 101 97 109 105 110 103 / 102 114 111 109 / 67 108 101 102 / 119 97 115 / 73 / 104 101 115 / 112 108 97 121 101 100 / 99 105 114 99 117 109 115 116 97 110 99 101 115 44 / 103 111 108 100 45 101 109 98 111 115 115 101 100 / 72 101 115 / 116 104 101 / 109 111 114 110 105 110 103 44 / 104 105 115 / 117 110 116 105 108 / 115 101 101 46 / 97 108 108 / 
+81)
+  Text:  Oh, Oh, stepped hung Alvarez sat I desk, Yes, well, Ming with tomorrow the security set glow an stepped up chandelier; one hes on right, 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  Oh, Oh, stepped hung Alvarez sat I desk, Yes, well, Ming with tomorrow the security set glow an stepped up chandelier; one hes on right, 
+82)
+  Text:  an the stepped with of played gold-embossed disturbed on thats Barry wait of left of of evening, tell sat sir? his other. you circumstances, the on An sir. fixing the room 
+  Encryption by substitution of characters:  qf zit lzthhtr vozi gy hsqntr ugsrMtdwglltr rolzxkwtr gf ziqzl Wqkkn vqoz gy styz gy gy tctfofuM ztss lqz lokM iol gzitkM ngx eokexdlzqfetlM zit gf Qf lokM yobofu zit kggd 
+83)
+  Text:  Barry youll office see. Id locate under Vermeer see. chandelier; youll sir. 18th any 18th of dining 
+  Encryption by replacing characters with numbers: / 66 97 114 114 121 / 121 111 117 108 108 / 111 102 102 105 99 101 / 115 101 101 46 / 73 100 / 108 111 99 97 116 101 / 117 110 100 101 114 / 86 101 114 109 101 101 114 / 115 101 101 46 / 99 104 97 110 100 101 108 105 101 114 59 / 121 111 117 108 108 / 115 105 114 46 / 49 56 116 104 / 97 110 121 / 49 56 116 104 / 111 102 / 100 105 110 105 110 103 / 
+84)
+  Text:  with finest to 
+  Encryption by substitution of characters:  vozi yoftlz zg 
+85)
+  Text:  stepped Yes, of Id on You circumstances, then. I open the Alto I he to up right, evening, night, cant… the guard. the him. and on not place 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  stepped Yes, of Id on You circumstances, then. I open the Alto I he to up right, evening, night, cant… the guard. the him. and on not place 
+86)
+  Text:  nearby, oak then. Alvarez security open sir? Alvarez century with Clef Friday you office he not office.Dr. him. any background.Mmmh! desk, sat open 
+  Encryption by replacing characters with numbers: / 110 101 97 114 98 121 44 / 111 97 107 / 116 104 101 110 46 / 65 108 118 97 114 101 122 / 115 101 99 117 114 105 116 121 / 111 112 101 110 / 115 105 114 63 / 65 108 118 97 114 101 122 / 99 101 110 116 117 114 121 / 119 105 116 104 / 67 108 101 102 / 70 114 105 100 97 121 / 121 111 117 / 111 102 102 105 99 101 / 104 101 / 110 111 116 / 111 102 102 105 99 101 46 68 114 46 / 104 105 109 46 / 97 110 121 / 98 97 99 107 103 114 111 117 110 100 46 77 109 109 104 33 / 100 101 115 107 44 / 115 97 116 / 111 112 101 110 / 
+87)
+  Text:  hes in into tomorrow Clef played asked not place suddenly Ive gold-embossed exclaimed, been silver. furniture, right, 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  hes in into tomorrow Clef played asked not place suddenly Ive gold-embossed exclaimed, been silver. furniture, right, 
+88)
+  Text:  Well, on in gold-embossed silver. place the sat the Alto under the suddenly – glow century – night, Dr. vase Site-19 and sir, wall, antique wallpaper, into then. You sure with one and wallpaper, 
+  Encryption by replacing characters with numbers: / 87 101 108 108 44 / 111 110 / 105 110 / 103 111 108 100 45 101 109 98 111 115 115 101 100 / 115 105 108 118 101 114 46 / 112 108 97 99 101 / 116 104 101 / 115 97 116 / 116 104 101 / 65 108 116 111 / 117 110 100 101 114 / 116 104 101 / 115 117 100 100 101 110 108 121 / 8211 / 103 108 111 119 / 99 101 110 116 117 114 121 / 8211 / 110 105 103 104 116 44 / 68 114 46 / 118 97 115 101 / 83 105 116 101 45 49 57 / 97 110 100 / 115 105 114 44 / 119 97 108 108 44 / 97 110 116 105 113 117 101 / 119 97 108 108 112 97 112 101 114 44 / 105 110 116 111 / 116 104 101 110 46 / 89 111 117 / 115 117 114 101 / 119 105 116 104 / 111 110 101 / 97 110 100 / 119 97 108 108 112 97 112 101 114 44 / 
+89)
+  Text:  silver. up all hes hes see. 18th on answering on see. ornate Dr. Alvarez his Well, evening, Hes Ming paneling, a Ive all 18th vase his 
+  Encryption by replacing characters with numbers: / 115 105 108 118 101 114 46 / 117 112 / 97 108 108 / 104 101 115 / 104 101 115 / 115 101 101 46 / 49 56 116 104 / 111 110 / 97 110 115 119 101 114 105 110 103 / 111 110 / 115 101 101 46 / 111 114 110 97 116 101 / 68 114 46 / 65 108 118 97 114 101 122 / 104 105 115 / 87 101 108 108 44 / 101 118 101 110 105 110 103 44 / 72 101 115 / 77 105 110 103 / 112 97 110 101 108 105 110 103 44 / 97 / 73 118 101 / 97 108 108 / 49 56 116 104 / 118 97 115 101 / 104 105 115 / 
+90)
+  Text:  sat other. circumstances, 
+  Encryption by substitution of characters:  lqz gzitkM eokexdlzqfetlM 
+91)
+  Text:  Very open finest the asked contact the Hes looked then. with a dining a morning, sir. I disturbed antique softly gleaming Oh, vase Friday I table was of Barry 
+  Encryption by replacing characters with numbers: / 86 101 114 121 / 111 112 101 110 / 102 105 110 101 115 116 / 116 104 101 / 97 115 107 101 100 / 99 111 110 116 97 99 116 / 116 104 101 / 72 101 115 / 108 111 111 107 101 100 / 116 104 101 110 46 / 119 105 116 104 / 97 / 100 105 110 105 110 103 / 97 / 109 111 114 110 105 110 103 44 / 115 105 114 46 / 73 / 100 105 115 116 117 114 98 101 100 / 97 110 116 105 113 117 101 / 115 111 102 116 108 121 / 103 108 101 97 109 105 110 103 / 79 104 44 / 118 97 115 101 / 70 114 105 100 97 121 / 73 / 116 97 98 108 101 / 119 97 115 / 111 102 / 66 97 114 114 121 / 
+92)
+  Text:  Clef his door suite. pedestal the uncomfortable. place But I hung sir, office answering like stepped not If silver. Vermeer the the by into other. in Its wait The room contact recall… guard. things Ming Dr. to 
+  Encryption by replacing characters with numbers: / 67 108 101 102 / 104 105 115 / 100 111 111 114 / 115 117 105 116 101 46 / 112 101 100 101 115 116 97 108 / 116 104 101 / 117 110 99 111 109 102 111 114 116 97 98 108 101 46 / 112 108 97 99 101 / 66 117 116 / 73 / 104 117 110 103 / 115 105 114 44 / 111 102 102 105 99 101 / 97 110 115 119 101 114 105 110 103 / 108 105 107 101 / 115 116 101 112 112 101 100 / 110 111 116 / 73 102 / 115 105 108 118 101 114 46 / 86 101 114 109 101 101 114 / 116 104 101 / 116 104 101 / 98 121 / 105 110 116 111 / 111 116 104 101 114 46 / 105 110 / 73 116 115 / 119 97 105 116 / 84 104 101 / 114 111 111 109 / 99 111 110 116 97 99 116 / 114 101 99 97 108 108 8230 / 103 117 97 114 100 46 / 116 104 105 110 103 115 / 77 105 110 103 / 68 114 46 / 116 111 / 
+93)
+  Text:  left under his phone. for yes.And left a any morning, Well, said, and If the Ming to softly The him Friday Barry any thats guard. background.Mmmh! hes guard. If a century 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  left under his phone. for yes.And left a any morning, Well, said, and If the Ming to softly The him Friday Barry any thats guard. background.Mmmh! hes guard. If a century 
+94)
+  Text:  finest on locate and gleaming 
+  Encryption by replacing characters with numbers: / 102 105 110 101 115 116 / 111 110 / 108 111 99 97 116 101 / 97 110 100 / 103 108 101 97 109 105 110 103 / 
+95)
+  Text:  Ive instructions played of its something Clef Clef on until guard. Alvarez urgent wallpaper, If to Id tell discuss security played I answering yes.And Id his all from set oak and Gears in 
+  Encryption by substitution of characters:  Oct oflzkxezogfl hsqntr gy ozl lgdtziofu Esty Esty gf xfzos uxqkrM Qscqktm xkutfz vqsshqhtkM Oy zg Or ztss rolexll ltexkozn hsqntr O qflvtkofu ntlMQfr Or iol qss ykgd ltz gqa qfr Utqkl of 
+96)
+  Text:  hung Dr. Yes, said, 
+  Encryption by cyclically shifting the code of each character by 0: (n = 0)  hung Dr. Yes, said, 
+97)
+  Text:  right, by like century ornate on yes.And his… standards I recall… Its contact the files door office suddenly and him. set 
+  Encryption by replacing characters with numbers: / 114 105 103 104 116 44 / 98 121 / 108 105 107 101 / 99 101 110 116 117 114 121 / 111 114 110 97 116 101 / 111 110 / 121 101 115 46 65 110 100 / 104 105 115 8230 / 115 116 97 110 100 97 114 100 115 / 73 / 114 101 99 97 108 108 8230 / 73 116 115 / 99 111 110 116 97 99 116 / 116 104 101 / 102 105 108 101 115 / 100 111 111 114 / 111 102 102 105 99 101 / 115 117 100 100 101 110 108 121 / 97 110 100 / 104 105 109 46 / 115 101 116 / 
+98)
+  Text:  by background.Mmmh! White night, was fixing Barry Clef fixing gold-embossed then. any Alto Clef Alvarez wall, from set recall… security under 
+  Encryption by replacing characters with numbers: / 98 121 / 98 97 99 107 103 114 111 117 110 100 46 77 109 109 104 33 / 87 104 105 116 101 / 110 105 103 104 116 44 / 119 97 115 / 102 105 120 105 110 103 / 66 97 114 114 121 / 67 108 101 102 / 102 105 120 105 110 103 / 103 111 108 100 45 101 109 98 111 115 115 101 100 / 116 104 101 110 46 / 97 110 121 / 65 108 116 111 / 67 108 101 102 / 65 108 118 97 114 101 122 / 119 97 108 108 44 / 102 114 111 109 / 115 101 116 / 114 101 99 97 108 108 8230 / 115 101 99 117 114 105 116 121 / 117 110 100 101 114 / 
+99)
+  Text:  to set ornate vase morning, I on his night, sure to 
+  Encryption by substitution of characters:  zg ltz gkfqzt cqlt dgkfofuM O gf iol fouizM lxkt zg 

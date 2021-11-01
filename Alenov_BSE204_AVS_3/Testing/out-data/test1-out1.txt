@@ -1,0 +1,11 @@
+Filled container:
+Container contains 3 elements
+0)
+  Text: Object
+  Encryption by substitution of characters: Gwptez
+1)
+  Text: Object
+  Encryption by cyclically shifting the code of each character by 2: (n = 2) Qdlgev
+2)
+  Text: Object
+  Encryption by replacing characters with numbers: 79 98 106 101 99 116 

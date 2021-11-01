@@ -1,0 +1,5 @@
+Filled container:
+Container contains 1 elements
+0)
+  Text: Critters for sale
+  Encryption by substitution of characters: Ekozztkl ygk lqst
